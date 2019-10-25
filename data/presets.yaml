@@ -8186,6 +8186,10 @@ en:
         # 'type=boundary, boundary=administrative'
         name: Administrative Boundary
         terms: '<translate with synonyms or related terms for ''Administrative Boundary'', separated by commas>'
+      type/destination_sign:
+        # 'type=destination_sign'
+        name: Destination Sign
+        terms: '<translate with synonyms or related terms for ''Destination Sign'', separated by commas>'
       type/enforcement:
         # type=enforcement
         name: Enforcement
