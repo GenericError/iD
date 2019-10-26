@@ -1,0 +1,23 @@
+{
+    "icon": "iD-relation",
+    "fields": [
+        "destination",
+        "destination:ref"
+    ],
+	"moreFields": [
+		"colour:back",
+		"colour:text",
+		"colour:arrow"
+		"destination:street",
+		"distance",
+		"time"
+		
+	]
+    "geometry": [
+        "relation"
+    ],
+    "tags": {
+        "type": "destination_sign"
+    },
+    "name": "Destination Sign"
+}
